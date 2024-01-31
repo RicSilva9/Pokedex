@@ -7,6 +7,10 @@ body {
     background-color: #f6f8fc;
 }
 
+h1, h2, h3, p, span, li {
+    cursor: default;
+}
+
 .content {
     width: 100vw;
     height: 100vh;
